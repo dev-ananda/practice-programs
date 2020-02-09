@@ -1,9 +1,9 @@
 package dev.ananda.graph.socialnetwork;
 
+import dev.ananda.utils.FilesUtility;
+
 import java.io.IOException;
 import java.util.List;
-
-import dev.ananda.utils.FilesUtility;
 
 public class Users {
 

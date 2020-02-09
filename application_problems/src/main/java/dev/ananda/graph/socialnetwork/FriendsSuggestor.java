@@ -1,12 +1,12 @@
 package dev.ananda.graph.socialnetwork;
 
-import java.util.HashSet;
-import java.util.Set;
-
 import dev.ananda.dsa.exception.QueueEmptyException;
 import dev.ananda.dsa.graph.IGraph;
 import dev.ananda.dsa.queue.IQueue;
 import dev.ananda.dsa.queue.QueueImpl;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class FriendsSuggestor {
 	
