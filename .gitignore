@@ -1,5 +1,5 @@
 /.idea
-/dsa/target/
+*/target/
 *.class
 META-INF
 *.iml
