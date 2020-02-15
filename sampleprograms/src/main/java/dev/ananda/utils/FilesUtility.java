@@ -13,7 +13,7 @@ public class FilesUtility {
 	
 	private static String getResourceFolderPath(){
 		Path root = FileSystems.getDefault().getPath("").toAbsolutePath();
-		String path = root.toString() + "/application_problems/src/main/resources/";
+		String path = root.toString() + "/sampleprograms/src/main/resources/";
 		return path;
 	}
 	

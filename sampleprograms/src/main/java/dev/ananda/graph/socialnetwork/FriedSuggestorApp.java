@@ -2,7 +2,7 @@ package dev.ananda.graph.socialnetwork;
 
 import java.util.Set;
 
-public class SocialNetworkUser {
+public class FriedSuggestorApp {
 	public static void main(String[] args) {
 		SocialNetwork server = new SocialNetwork();
 		Set<User> suggestions = server.getFriendSuggestions(6);

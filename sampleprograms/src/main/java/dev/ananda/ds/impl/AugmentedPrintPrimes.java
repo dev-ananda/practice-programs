@@ -1,4 +1,4 @@
-package dev.ananda.problems.ds.impl;
+package dev.ananda.ds.impl;
 
 
 import java.util.Arrays;

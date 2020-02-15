@@ -1,4 +1,4 @@
-package dev.ananda.problems.ds.impl;
+package dev.ananda.ds.impl;
 
 public class PrisonerEscapeJumpingWalls {
 	
