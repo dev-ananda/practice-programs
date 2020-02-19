@@ -1,6 +1,6 @@
-package dev.ananda.pattern.state.sample1.states;
+package dev.ananda.pattern.behavioral.state.sample1.states;
 
-import dev.ananda.pattern.state.sample1.ui.Player;
+import dev.ananda.pattern.behavioral.state.sample1.ui.Player;
 
 public class LockedState extends State {
 

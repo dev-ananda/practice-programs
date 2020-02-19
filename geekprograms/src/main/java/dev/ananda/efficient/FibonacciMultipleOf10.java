@@ -1,6 +1,6 @@
 package dev.ananda.efficient;
 
-public class FibonacciMultipleOfN {
+public class FibonacciMultipleOf10 {
 
 //    An efficient way to check whether n-th Fibonacci number is multiple of 10
 //    https://www.geeksforgeeks.org/efficient-way-check-whether-n-th-fibonacci-number-multiple-10/

@@ -1,4 +1,4 @@
-package dev.ananda.pattern.state.sample1.ui;
+package dev.ananda.pattern.behavioral.state.sample1.ui;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,7 +1,7 @@
-package dev.ananda.pattern.state.sample1.ui;
+package dev.ananda.pattern.behavioral.state.sample1.ui;
 
-import dev.ananda.pattern.state.sample1.states.ReadyState;
-import dev.ananda.pattern.state.sample1.states.State;
+import dev.ananda.pattern.behavioral.state.sample1.states.ReadyState;
+import dev.ananda.pattern.behavioral.state.sample1.states.State;
 
 import java.util.ArrayList;
 import java.util.List;
