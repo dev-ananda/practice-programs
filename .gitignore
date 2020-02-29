@@ -4,3 +4,6 @@
 META-INF
 *.iml
 classes
+*.classpath
+*.project
+*.prefs
